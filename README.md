@@ -1,2 +1,2 @@
 # git_study
-:D
+разработчики: KostKH, KostStudy
